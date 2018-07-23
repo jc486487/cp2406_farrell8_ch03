@@ -4,6 +4,7 @@ public class NumbersDemo
     {
         int a = 5;
         int b = 7;
+
         displayTwiceTheNumber(a);
         displayNumberPlusFive(b);
         displayNumberSquared(a);

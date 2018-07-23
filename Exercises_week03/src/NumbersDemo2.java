@@ -8,6 +8,7 @@ public class NumbersDemo2
         System.out.println("Enter 2 numbers: ");
         int a = inputDevice.nextInt();
         int b = inputDevice.nextInt();
+
         displayTwiceTheNumber(a);
         displayNumberPlusFive(b);
         displayNumberSquared(a);

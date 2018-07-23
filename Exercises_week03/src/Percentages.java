@@ -4,6 +4,7 @@ public class Percentages
     {
         double a = 5.0;
         double b = 10.0;
+
         computePercent(a, b);
         computePercent(b, a);
     }

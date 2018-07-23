@@ -8,6 +8,7 @@ public class Percentages2
         System.out.println("Enter 2 values: ");
         double a = inputDevice.nextDouble();
         double b = inputDevice.nextDouble();
+
         computePercent(a, b);
         computePercent(b, a);
     }
