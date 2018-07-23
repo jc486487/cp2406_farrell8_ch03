@@ -1,5 +1,5 @@
 // This application displays some math facts
-public class DebugThree2
+public class FixDebugThree2
 {
    public static void main(String args[])
    {
